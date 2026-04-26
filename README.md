@@ -251,11 +251,3 @@ adb emu avd wipe-data
 ```
 
 ---
-
-```
-
-📸 *[Insérer screenshot écran initial Android après reset — preuve de remise à zéro]*
-
----
-
-*Rapport réalisé dans le cadre du cours Sécurité des applications mobiles — LAB 2 : Rooting Android*
